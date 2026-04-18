@@ -300,11 +300,11 @@ This project demonstrates:
 
 # 💡13.Dashboard Images
 ### Excel Dashboard
-<img src="https://github.com/GauriPise/Spotify/blob/main/Screenshot 2026-04-18 175251.png" width="1000"> <br>
+<img src="https://github.com/GauriPise/Spotify-Data-Analysis/blob/main/Screenshot 2026-04-18 175251.png" width="1000"> <br>
 
 --- 
 ### Power BI Dashboard
-<img src="https://github.com/GauriPise/Spotify/blob/main/Screenshot 2026-04-18 175353.png" width="1000"> <br>
+<img src="https://github.com/GauriPise/Spotify-Data-Analysis/blob/main/Screenshot 2026-04-18 175353.png" width="1000"> <br>
 
 
 
